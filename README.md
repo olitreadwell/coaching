@@ -74,13 +74,15 @@ As a Software Engineer and coding instructor, I've worked on diverse projects, f
 
 In our coaching relationship, I uphold a code of conduct that promotes a respectful and inclusive learning environment. Our sessions will prioritize active listening, collaboration, and empathy.
 
+Please read the full [Code of Conduct](./#)
+
 ## New Student Survey
 
 Before we start our coding journey together, I'd love to learn more about your coding goals and interests. Please fill out the new student survey [provide a link to the survey] to personalize our coaching sessions to your preferences.
 
-## Current Student Check-in or Review
+<!-- ## Current Student Check-in or Review
 
-Your feedback is invaluable to me. Please take a moment to share your thoughts and experiences in our current student check-in or review [provide a link to the check-in/review form]. Your feedback will help me continually improve our coaching journey together.
+Your feedback is invaluable to me. Please take a moment to share your thoughts and experiences in our current student check-in or review [provide a link to the check-in/review form]. Your feedback will help me continually improve our coaching journey together. -->
 
 ## Contact Information
 
