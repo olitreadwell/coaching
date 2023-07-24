@@ -1,76 +1,55 @@
-# Coaching with [Your Name]
+# Coaching with Oli Treadwell
 
-Hello there! Welcome to my coaching GitHub repository. I'm thrilled that you're here, and I can't wait to help you achieve your goals. Below, you'll find all the essential information you need to know about me, my coaching style, resources, rates, and more. Let's get started on this exciting learning journey together!
-
-## Table of Contents
-1. Testimonials from Past Clients
-2. Skills I'm Particularly Good at Teaching
-3. About Me - A Short Bio
-4. My Teaching Style
-5. Resources for Your Learning
-6. Current Rates
-7. My Relevant Past Experience
-8. Code of Conduct
-9. New Student Survey
-10. Current Student Check-in or Review
-11. Contact Information
-12. Coaching Policies
-13. Discounts
-14. My Schedule
+Hello there! I'm Oli Treadwell, a software engineer with a passion for teaching coding. I've been in the software engineering industry since 2012, and I'm excited to share my knowledge and help you achieve your coding goals. With over 8 years of experience in the industry and more than 5 years of teaching coding, I have a deep understanding of software engineering concepts and can teach them to students of all skill levels.
 
 ## Testimonials from Past Clients
 
-> "Working with [Your Name] has been an incredible experience. Their coaching has helped me gain the confidence to pursue my dreams. I highly recommend them!" - [Past Client Name]
+> "Oli's teaching style is fantastic! He explains complex coding concepts in a way that's easy to understand, and his live coding sessions were super helpful." - Emma K.
 
-> "I couldn't have asked for a better coach than [Your Name]. They are patient, supportive, and always encourage me to strive for success." - [Past Client Name]
-
-> "My sessions with [Your Name] have been life-changing. They helped me discover my strengths and set clear goals. I'm now more focused and motivated than ever!" - [Past Client Name]
+> "I can't thank Oli enough for helping me with web design. His step-by-step explanations made learning HTML and CSS a breeze!" - Alex R.
 
 ## Skills I'm Particularly Good at Teaching
 
-- Goal Setting and Action Planning: Learn how to set achievable goals and create actionable plans to reach them.
-- Time Management and Productivity: Master time management techniques to maximize productivity and balance your tasks effectively.
-- Building Confidence and Self-Esteem: Boost your self-confidence and develop a positive self-image.
-- Effective Communication and Public Speaking: Enhance your communication skills to express yourself confidently in any situation.
-- Problem-Solving and Decision Making: Develop critical thinking and decision-making skills to overcome challenges.
-- Career Development and Interview Skills: Receive guidance on career planning and shine in job interviews.
-- Stress Management and Mindfulness: Discover techniques to manage stress and stay calm in challenging situations.
+- Web Design: Learn HTML and CSS to create stunning websites and user interfaces.
+- Client-Side Programming: Master JavaScript and React to build interactive and dynamic web applications.
+- Server-Side Programming: Dive into NodeJS, Ruby, Python, and more to develop robust server-side applications.
+- Scripting Languages, Frameworks, Testing, Styles, and Databases: Get hands-on experience with various coding tools and technologies.
 
 ## About Me - A Short Bio
 
-Hey! I'm [Your Name], a passionate and experienced coach dedicated to helping individuals like you unlock their full potential. With a [relevant coaching certification or degree] and years of experience, I've empowered countless clients to overcome obstacles and achieve their aspirations. My mission is to support you in becoming the best version of yourself.
+I've been a software engineer since 2012, contributing to websites and software projects for well-known publications like The New Yorker, Vanity Fair, and Wired. My love for coding and teaching led me to share my expertise with students like you!
 
 ## My Teaching Style
 
-In our coaching sessions, you'll find a warm and supportive atmosphere where you can freely express your thoughts and feelings. My approach is student-centered, focusing on your unique needs and learning style. We'll work together as a team, setting clear goals and creating actionable plans to turn your dreams into reality. I'll provide gentle guidance and constructive feedback to help you grow and thrive.
+In our coding sessions, you'll experience detailed step-by-step explanations, working through examples, live coding, and problem-solving. I believe in creating a judgment-free zone for learning, where you can explore coding with confidence. Our sessions will be customized to meet your unique needs, making the learning experience engaging and enjoyable.
 
 ## Resources for Your Learning
 
-To enhance your coaching journey, I've compiled a set of resources that cater to your specific needs. These resources include interactive exercises, insightful articles, recommended books, and inspiring podcasts. Each resource is designed to support your growth and development, providing valuable tools for your personal and professional journey.
+To enhance your coding journey, I'll provide a set of resources tailored to your learning goals. We'll have access to interactive exercises, insightful articles, coding challenges, and more to support your progress.
 
 ## Current Rates
 
-I believe that coaching should be accessible to all who seek personal growth. My rates are competitive and tailored to fit your needs. For information about my current coaching rates and available packages, please contact me [provide email/phone number].
+Please reach out to me [provide email/phone number] for information about my current coaching rates. I strive to offer fair and accessible pricing to support your coding journey.
 
 ## My Relevant Past Experience
 
-With a background in [mention relevant experience, e.g., life coaching, career development], I've successfully worked with clients from diverse backgrounds and age groups. My coaching expertise encompasses various areas, including personal development, career advancement, and academic excellence. Through our coaching sessions, you'll benefit from my experience and knowledge to thrive in your chosen path.
+As a software engineer and coding instructor, I've worked with students in schools, homeschooling, and informal settings. Whether it's a large class or one-on-one coaching, I enjoy customizing lessons to meet each student's needs. My background in web design, client-side programming, and server-side programming allows me to provide comprehensive guidance in various coding aspects.
 
 ## Code of Conduct
 
-In our coaching relationship, I adhere to a strict code of conduct to ensure a safe and respectful environment for everyone. You can expect confidentiality, active listening, and unbiased guidance throughout our sessions. I'm committed to maintaining a professional and supportive coaching space for your personal growth.
+In our coaching relationship, I adhere to a strict code of conduct that fosters a supportive and respectful learning environment. Our coaching sessions will prioritize confidentiality, active listening, and unbiased guidance.
 
 ## New Student Survey
 
-Before we begin our coaching journey, I'd like to understand your goals, challenges, and preferences better. Please fill out the new student survey [provide a link to the survey]. Your responses will help me tailor our coaching sessions to meet your specific needs effectively.
+Before we begin our coding journey, I'd like to understand your coding goals and interests better. Please fill out the new student survey [provide a link to the survey] to help me personalize our sessions to your preferences.
 
 ## Current Student Check-in or Review
 
-As we progress, your feedback is invaluable to me. Your growth and success are my top priorities, and I'm here to support you every step of the way. Please take a moment to share your thoughts and experiences in our current student check-in or review [provide a link to the check-in/review form]. Your feedback will enable me to continuously improve our coaching journey together.
+As we progress, your feedback is invaluable to me. Please take a moment to share your thoughts and experiences in our current student check-in or review [provide a link to the check-in/review form]. Your feedback will enable me to continuously improve our coding journey together.
 
 ## Contact Information
 
-Have any questions or want to get started? Don't hesitate to reach out to me! You can contact me through [email/phone number/social media]. I'm here to answer any questions you may have and provide guidance on your coaching journey.
+Have any questions or want to get started? Don't hesitate to reach out to me! You can contact me through [email/phone number/social media]. I'm here to answer any questions you may have and provide guidance on your coding journey.
 
 ## Coaching Policies
 
@@ -78,10 +57,14 @@ To ensure a smooth coaching experience, here are some essential policies you sho
 
 - **Cancellation Policy:** If you need to reschedule a session, please let me know at least 24 hours in advance.
 - **Payment:** Payment for coaching sessions is due [provide details about payment methods and timing].
-- **Respect and Professionalism:** We will treat each other with respect and professionalism throughout our coaching journey.
+- **Respect and Professionalism:** We will treat each other with respect and professionalism throughout our coding journey.
 
 ## Discounts
 
-Occasionally, I offer special discounts and promotions to make coaching more accessible. Stay tuned for updates on current discounts and exciting offers!
+Occasionally, I offer special discounts and promotions to make coding coaching more accessible. Stay tuned for updates on current discounts and exciting offers!
 
-##
+## My Schedule
+
+I'm available for tutoring sessions from Monday to Sunday. We can meet in-person or online, depending on your preference and convenience.
+
+Thank you for considering me as your coding tutor. I'm looking forward to helping you achieve your coding goals and supporting you in your coding progress. Together, we'll embark on an exciting coding journey!
