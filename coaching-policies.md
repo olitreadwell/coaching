@@ -1,5 +1,7 @@
 # Online Tutoring Policies and Guidelines
 
+<em>last updated 2023-07-23</em>
+
 Hello there! We're absolutely thrilled to have you join our online tutoring community. Let's make learning fun and effective together! Here are some simple and friendly policies with all the details you need:
 
 ## 1. Cancellation Policy:
@@ -67,4 +69,3 @@ We're super excited to embark on this learning adventure with you. If you have a
 See you at our next tutoring session!
 
 Happy Coding!
-[Contact Information]
