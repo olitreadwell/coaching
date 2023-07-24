@@ -171,6 +171,6 @@ Occasionally, I offer special discounts and promotions to make coding coaching m
 
 ## My Schedule
 
-I'm available for tutoring sessions from Monday to Sunday. We can meet in-person or online, depending on your preference and convenience.
+I'm available for online tutoring sessions from Sunday-Thursday from 4pm to 9pm Pacific. 
 
-Thank you for considering me as your coding tutor. I'm looking forward to helping you achieve your coding goals and supporting you in your coding progress. Together, we'll embark on an exciting coding journey!
+Thank you for considering me as your coding coach. I'm looking forward to helping you achieve your coding goals and supporting your growth in the world of software engineering. Together, let's embark on an exciting coding journey!
