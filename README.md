@@ -21,12 +21,27 @@ With a strong background in ReactJS, NodeJS, JavaScript and experience in many o
 
 ## Skills I'm Particularly Good at Teaching
 
-- Web Design with ReactJS: Learn to build responsive and interactive web applications using ReactJS.
-- Server-Side Development with NodeJS and Python: Dive into server-side programming and create robust backend systems.
-- Frameworks and Agile Methodologies: Gain proficiency in using frameworks and working efficiently in an Agile environment.
-- Technical Problem-Solving: Develop critical thinking skills to tackle coding challenges with confidence.
-- Web Accessibility and Inclusive Design: Embrace accessibility practices to create user-friendly and inclusive websites.
+- Web Design:
+  - Learn HTML and CSS to create stunning websites and user interfaces.
+  - Explore ReactJS to build responsive and interactive web applications.
 
+- Server-Side Development:
+  - Dive into server-side programming using NodeJS, Python, Ruby, and more to create robust backend systems and applications.
+
+- Frameworks and Agile Methodologies:
+  - Gain proficiency in using frameworks and working efficiently in an Agile environment to streamline development.
+
+- Technical Problem-Solving:
+  - Develop critical thinking skills to tackle coding challenges with confidence and find innovative solutions.
+
+- Client-Side Programming:
+  - Master JavaScript and React to build interactive and dynamic web applications, providing a seamless user experience.
+
+- Scripting Languages, Testing, Styles, and Databases:
+  - Get hands-on experience with various coding tools and technologies, including scripting languages, testing methods, styles, and databases.
+
+- Web Accessibility and Inclusive Design:
+  - Embrace accessibility practices to create user-friendly and inclusive websites, making your applications accessible to all users.
 ## About Me - A Short Bio
 
 I have a strong background as a Senior Software Engineer and have worked on exciting projects, including mobile-first websites, seamless web presence for museums, and brand-agnostic paywall architecture for media brands. As an active community organizer and open-source contributor, I advocate for accessibility and the positive impact of technology.
