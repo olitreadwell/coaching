@@ -64,7 +64,7 @@ To support your coding journey, I'll provide access to a curated set of resource
 
 ## Current Rates
 
-For information about my current coaching rates and available packages, please contact me [provide email/phone number]. I'm committed to providing fair and accessible pricing to support your coding aspirations.
+For information about my current coaching rates and available packages, please contact me. I'm committed to providing fair and accessible pricing to support your coding aspirations.
 
 ## My Relevant Past Experience
 
@@ -78,7 +78,7 @@ Please read the full <a href="./code-of-conduct.md" target="_blank">Code of Cond
 
 ## New Student Survey
 
-Before we start our coding journey together, I'd love to learn more about your coding goals and interests. Please fill out the new student survey [provide a link to the survey] to personalize our coaching sessions to your preferences.
+Before we start our coding journey together, I'd love to learn more about your coding goals and interests. Please fill out the <a href="https://docs.google.com/forms/d/e/1FAIpQLSfxz74Camgzmz6L0Uc7XrlvNLGW0AvEmrR_sGKfmwDbqGHbFw/viewform?usp=sf_link" target="_blank">new student survey</a> to personalize our coaching sessions to your preferences.
 
 <!-- ## Current Student Check-in or Review
 
@@ -93,8 +93,9 @@ If you have any questions or want to get started, don't hesitate to reach out to
 To ensure a smooth coaching experience, here are some essential policies you should be aware of:
 
 - **Cancellation Policy:** If you need to reschedule a session, please let me know at least 24 hours in advance.
-- **Payment:** Payment for coaching sessions is due [provide details about payment methods and timing].
 - **Respect and Inclusivity:** We will treat each other with respect and embrace an inclusive environment throughout our coaching journey.
+
+Please read through the full set of policies here, <a href="./coaching-policies.md" target="_blank">Coaching Policies</a> 
 
 ## Discounts
 
