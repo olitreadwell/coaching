@@ -74,7 +74,7 @@ As a Software Engineer and coding instructor, I've worked on diverse projects, f
 
 In our coaching relationship, I uphold a code of conduct that promotes a respectful and inclusive learning environment. Our sessions will prioritize active listening, collaboration, and empathy.
 
-Please read the full [Code of Conduct](./#)
+Please read the full <a href="./code-of-conduct.md" target="_blank">Code of Conduct</a>.
 
 ## New Student Survey
 
